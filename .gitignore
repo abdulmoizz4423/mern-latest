@@ -1,4 +1,4 @@
-.env
-node modules 
-/server/.env
-/LGU/.env
+# .env
+# node modules 
+# /server/.env
+# /LGU/.env
